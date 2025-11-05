@@ -1,0 +1,11 @@
+{
+  "allowModelToEditFiles": true,
+  "models": [
+    {
+      "title": "Gemini Student Pro",
+      "provider": "google",
+      "model": "gemini-1.5-pro",
+      "apiKey": "AIzaSyAkghzDCxlReZGta9hMt1D0HeMhXRLOmsE"
+    }
+  ]
+}
